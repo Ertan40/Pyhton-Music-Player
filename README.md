@@ -9,6 +9,6 @@ With this Python project, you create a simple music player with an interactive U
 
 To be able to build this project you should have Tkinter and pygame installed on your device.
 
-* I used Tkinter to render our application’s menu and its buttons, as well as to load the music from files, and then to play, pause, and stop it using pygame library. Also, Tkinter is a lightweight module and can be used to create cross-platform applications (the same code will work on Windows, macOS, and Linux).
+* I used Tkinter to render my application’s menu and its buttons, as well as to load the music from files, and then to play, pause, and stop it using pygame library. Also, Tkinter is a lightweight module and can be used to create cross-platform applications (the same code will work on Windows, macOS, and Linux).
 
 * In Python, Pygame provides an inbuilt method called mixer () which allows us to deal with sound files easily.
