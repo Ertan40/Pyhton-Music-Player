@@ -1,4 +1,4 @@
-# Pyhton-Music-Player
+# Python-Music-Player
  Music Player built using Python and Tkinter
 
 <img width="301" alt="Music_Player" src="https://user-images.githubusercontent.com/114283583/235363865-2f0e9d31-8eea-4ecf-8b23-3af7314c41ba.png">
